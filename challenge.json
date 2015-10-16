@@ -1,0 +1,10 @@
+﻿{
+    "editable": [
+        "Rijndael.cs"
+    ],
+    "excludes": [
+        ".gitignore",
+        "challenge.json"
+    ],
+    "test": "nunit-console target/RijndaelChallenge.dll"
+}
